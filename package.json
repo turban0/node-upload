@@ -1,0 +1,13 @@
+{
+  "name": "hajsback-web",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "body-parser": "~1.0.0",
+    "busboy": "^0.2.11",
+    "express": "~4.0.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
